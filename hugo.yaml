@@ -1,5 +1,5 @@
 baseURL: 'https://wiki.davit.in/'
-languageCode: en-UK
+languageCode: en-gb
 title: Hugo-Davit-Docs
 menus:
   main:
